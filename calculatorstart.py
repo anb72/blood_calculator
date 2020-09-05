@@ -17,3 +17,10 @@ def HDL_driver():
 # Check if HDL is normal 
 #Output 
 
+def check_HDL():
+    if HDL result >60
+        print ("Normal")
+    elif 40<=  && HDL < 60 
+        print ("Borderline low")
+    else
+        print ("Low")
